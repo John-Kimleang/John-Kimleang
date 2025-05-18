@@ -3,5 +3,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:johnkimleang29@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Kimleang&layout=compact&theme=dark&langs_count=10"/>
-<img src="https://www.kimleang.site/cat_pf.jpg" alt="Profile Image" width="400" style="border-radius: 10px;"/>
 
